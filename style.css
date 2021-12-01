@@ -1,0 +1,87 @@
+body {
+    font-family: https://fonts.google.com/specimen/Outfit;
+    background-color: #0D1A2D;
+}
+
+.container {
+    background-color: #15273F;
+    margin: auto;
+    padding-top: 2em;
+    width: 30em;
+    height: 39.9em;
+    border-radius: 8px;
+    box-shadow: 2em 1em #0C1729;
+    /* -webkit-border-radius: 5px; */
+    -moz-border-raadius: 10px;
+}
+
+.equilibrium-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 60%;
+    border-radius: 8px;
+}
+
+.container h2 {
+    color: #ffffff;
+    margin: 1em;
+}
+
+.container h3 {
+    color: #8199B9;
+    margin: 1em;
+}
+
+.etherium-icon {
+    margin: 0 0 0 1em;
+}
+
+.container p {
+    color: #ffffff;
+    margin: -1.4em 0 0 2.5em;
+}
+
+.clock {
+    float: right;
+    margin: 0 2em 0 0;
+}
+
+.clock p {
+    margin-left: 1.5em;
+}
+
+hr {
+    margin-top: 0.7em;
+    width: 80%;
+    height: 1px;
+    background-color: #8199B9;
+    border: none    ;
+    border-radius: 6px;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.creation {
+    /* height: 2em; */
+    margin-top: 1em;
+    margin-left: 2em;
+}
+
+.creation-image {
+    height: 2em;
+}
+
+.creation p {
+    color: #8199B9;
+}
+
+.attribution {
+    font-size: 11px; text-align: center;
+    color: hsl(228, 45%, 44%);
+    margin-top: 1em;
+}
